@@ -5,10 +5,13 @@ This analysis aims at identifing temperature data for the months of June and Dec
 
 ## Results
 The images below provides statistics for temperature data respectively in June and December in Oahu.
+
 <img width="166" alt="Screen Shot 2021-06-18 at 5 00 00 PM" src="https://user-images.githubusercontent.com/82549066/122652472-1a3e4280-d10d-11eb-9c12-b976ba342644.png">
+
 Temperature Statistics in June
 
 <img width="168" alt="Screen Shot 2021-06-18 at 5 00 20 PM" src="https://user-images.githubusercontent.com/82549066/122652489-2f1ad600-d10d-11eb-91d8-f64b972a7838.png">
+
 Temperature Statistics in December
 
 From images above, we can find the following results:
